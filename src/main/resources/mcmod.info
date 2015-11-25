@@ -1,0 +1,21 @@
+[
+{
+  "modid": "GravityMod",
+  "name": "Gravity",
+  "description": "Learning MCModding with Pahimar",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "zywicki"
+  ],
+  "credits": "Ayy Lmao",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
