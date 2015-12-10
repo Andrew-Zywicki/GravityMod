@@ -1,11 +1,27 @@
-[22:33:28] [main/INFO]: Setting user: Player438
-[22:33:29] [Client thread/INFO]: LWJGL Version: 2.9.1
-[22:33:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Gravity
-[22:33:36] [Sound Library Loader/INFO]: Sound engine started
-[22:33:37] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[22:33:37] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[22:33:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Gravity
-[22:33:37] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:33:37] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:33:38] [Sound Library Loader/INFO]: Sound engine started
-[22:34:26] [Client thread/INFO]: Stopping!
+[01:29:40] [main/INFO]: Setting user: Player726
+[01:29:41] [Client thread/INFO]: LWJGL Version: 2.9.1
+[01:29:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Gravity
+[01:29:49] [Sound Library Loader/INFO]: Sound engine started
+[01:29:50] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[01:29:50] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[01:29:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Gravity
+[01:29:50] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[01:29:50] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[01:29:51] [Sound Library Loader/INFO]: Sound engine started
+[01:29:54] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[01:29:54] [Server thread/INFO]: Generating keypair
+[01:29:55] [Server thread/INFO]: Preparing start region for level 0
+[01:29:55] [Server thread/INFO]: Changing view distance to 12, from 10
+[01:29:56] [Server thread/INFO]: Player726[local:E:104f61d3] logged in with entity id 188 at (-803.2247300653055, 6.16702703440265, 339.87538757266424)
+[01:29:56] [Server thread/INFO]: Player726 joined the game
+[01:31:19] [Server thread/INFO]: Saving and pausing game...
+[01:31:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[01:31:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[01:31:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[01:31:20] [Server thread/INFO]: Stopping server
+[01:31:20] [Server thread/INFO]: Saving players
+[01:31:20] [Server thread/INFO]: Saving worlds
+[01:31:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[01:31:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[01:31:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[01:31:21] [Client thread/INFO]: Stopping!
